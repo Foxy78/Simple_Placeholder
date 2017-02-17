@@ -1,6 +1,8 @@
 
 //Activité 3
 
+//Description : Cette activité consiste à récupérer des liens dans un site et à ajouter dans ce site un nouveau lien.
+
 var formulaire1Elt = document.createElement("form"); // on crée un élément "formulaire1Elt" qui contiendra le boton "Ajouter un lien"
 document.querySelector ("div").appendChild (formulaire1Elt);
 var formulaire2Elt = document.createElement("form"); // on crée un élément "formulaire2Elt" qui contiendra les champs de saisie du lien supplémentaire
